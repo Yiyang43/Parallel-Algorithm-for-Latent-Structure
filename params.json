@@ -1,0 +1,8 @@
+{
+    "alpha": 0.005,
+    "scenario": "17",
+    "maxk": 3,
+    "n_samples": 1000,
+    "stage": 3,
+    "sample": false
+}
